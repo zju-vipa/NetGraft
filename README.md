@@ -36,8 +36,8 @@ pip install -r requirements.txt
 
 You can download pretrained teacher models here (Github Releases):
 
-- [Teacher model](https://github.com/sccbhxc/NetGraft/releases/download/v1.0/vgg16-blockwise-cifar10.pth) trained on full CIFAR10. 
-- [Teacher model](https://github.com/sccbhxc/NetGraft/releases/download/v1.0/vgg16-blockwise-cifar100.pth) trained on full CIFAR100. 
+- [Teacher model](https://github.com/zju-vipa/NetGraft/releases/download/v1.0/vgg16-blockwise-cifar10.pth) trained on full CIFAR10. 
+- [Teacher model](https://github.com/zju-vipa/NetGraft/releases/download/v1.0/vgg16-blockwise-cifar100.pth) trained on full CIFAR100. 
 
 **Note**: put the pre-trained teacher models in the directory: `ckpt/teacher/`
 
